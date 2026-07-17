@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Qidian (起点中文网)",
+    "author": "Developer",
+    "version": 1,
+    "source": "https://www.qidian.com",
+    "regexp": "https://(www|book)\\.qidian\\.com/.*",
+    "description": "Tiện ích nguồn đọc truyện từ Qidian tiếng Trung gốc.",
+    "locale": "zh_CN",
+    "tag": "",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
